@@ -4,11 +4,12 @@
 
 body {
     margin: 0;
+    background-color: #0B2434;
 }
 
-.main {
-    border: 20px;
-    border-color: #0B2434;
-    /* background-color: #e6e4df; */
-    background-color: blue;
+main {
+    margin: 20px;
+    padding: 10px;
+    height: 90vh;
+    background-color: #e6e4df;
 }
