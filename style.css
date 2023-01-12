@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    border: 20px;
+    border-color: #0B2434;
+    /* background-color: #e6e4df; */
+    background-color: blue;
+}
